@@ -1,0 +1,13 @@
+{
+  "name": "ts5-template",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@emotion/css": "^11.7.1",
+    "frostcolor": "^3.0.0",
+    "next": "^12.0.8",
+    "next-link": "^2.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
